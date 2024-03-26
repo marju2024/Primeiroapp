@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class NextActivity extends AppCompatActivity {//representa a tela principal.
 
-    @Override
+    @Override //oi meu nome é raimundo.
     protected void onCreate(Bundle savedInstanceState) {//cria uma activity.
         super.onCreate(savedInstanceState);//possibilita que a Activity seja inicializada.
         setContentView(R.layout.activity_next);//constrói a interface do aplicativo.
